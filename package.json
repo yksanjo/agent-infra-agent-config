@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-agent-config",
+  "version": "1.0.0",
+  "description": "Configuration management for AI deployments",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "agent-config"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-agent-config.git"
+  }
+}
